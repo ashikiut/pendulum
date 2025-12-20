@@ -1,6 +1,6 @@
 
 # PENDULUM: A Benchmark for Assessing Sycophancy in Multimodal Large Language Models
-![PENDULUM Teaser](assets/pendulum_teaser.png)
+![PENDULUM Teaser](images/sycophancy_example.png)
 
 **PENDULUM** is a benchmark dataset designed to systematically evaluate **sycophantic behavior** in Multimodal Large Language Models (MLLMs). The dataset probes how model predictions *swing* under positive and negative user influence, analogous to a pendulum oscillating around a neutral equilibrium.
 
@@ -28,7 +28,7 @@ Each image–question pair yields **three model responses**, enabling controlled
 
 ## 🧭 Image Domains
 
-![Domain Distribution](assets/domain_distribution.png)
+![Domain Distribution](images/image-distribution.png)
 
 | Domain                | Description |
 |----------------------|-------------|
@@ -43,7 +43,7 @@ Each image–question pair yields **three model responses**, enabling controlled
 
 ## 🧪 Annotation Pipeline
 
-![Annotation Pipeline](assets/annotation_pipeline.png)
+![Annotation Pipeline](images/pipeline.png)
 
 1. Images are curated and grouped by domain based on visual complexity.
 2. Human annotators generate factual VQA prompts.
