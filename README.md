@@ -41,7 +41,7 @@ Each image–question pair yields **three model responses**, enabling controlled
 
 ---
 
-## 🧪 Annotation Pipeline
+## 🧪 Experiment Pipeline
 
 ![Experiment Pipeline](images/pipeline.png)
 
