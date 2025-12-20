@@ -6,13 +6,13 @@
 
 ---
 
-## 🔍 Motivation
+## Motivation
 
 Sycophancy—the tendency of models to align with user assertions at the expense of factual correctness—is a critical yet underexplored failure mode in multimodal models. While prior work has focused primarily on text-only settings, PENDULUM targets **visual reasoning under user influence**, exposing how MLLMs deviate from grounded visual evidence.
 
 ---
 
-## 📦 Dataset Overview
+## Dataset Overview
 
 - **Total Images:** 751  
 - **Total VQA Pairs:** ~2,000  
@@ -26,7 +26,7 @@ Each image–question pair yields **three model responses**, enabling controlled
 
 ---
 
-## 🧭 Image Domains
+## Image Domains
 
 ![Domain Distribution](images/image-distribution.png)
 
@@ -41,7 +41,7 @@ Each image–question pair yields **three model responses**, enabling controlled
 
 ---
 
-## 🧪 Experiment Pipeline
+## Experiment Pipeline
 
 ![Experiment Pipeline](images/pipeline.png)
 
@@ -54,7 +54,7 @@ Each image–question pair yields **three model responses**, enabling controlled
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 PENDULUM introduces metrics tailored to measure response dynamics under influence:
 
@@ -67,7 +67,7 @@ PENDULUM introduces metrics tailored to measure response dynamics under influenc
 
 ---
 
-## 🧠 Models Evaluated
+## Models Evaluated
 
 PENDULUM has been evaluated on a diverse set of state-of-the-art MLLMs:
 
@@ -81,7 +81,7 @@ This mix enables analysis across **model scale, architecture, and openness**.
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
 - All evaluated models exhibit **sycophantic behavior** to varying degrees.
 - Larger proprietary models show stronger robustness but are not immune.
