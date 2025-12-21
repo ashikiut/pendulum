@@ -1,6 +1,7 @@
 
 # PENDULUM: A Benchmark for Assessing Sycophancy in Multimodal Large Language Models
-![PENDULUM Teaser](images/sycophancy_example.png)
+
+<img src="https://github.com/ashikiut/pendulum/blob/main/images/sycophancy_example.png" width=60% height=60%>
 
 **PENDULUM** is a benchmark dataset designed to systematically evaluate **sycophantic behavior** in Multimodal Large Language Models (MLLMs). The dataset probes how model responses *swing* under positive and negative user influence, analogous to a pendulum oscillating around a neutral equilibrium.
 
@@ -42,7 +43,7 @@ Each image–question pair yields **three model responses**, enabling controlled
 ---
 
 ## Experiment Pipeline
-<img src="https://github.com/ashikiut/pendulum/blob/main/images/pipeline.png" width=70% height=70%>
+<img src="https://github.com/ashikiut/pendulum/blob/main/images/pipeline.png" width=60% height=60%>
 
 1. Images are curated and grouped by domain based on visual complexity.
 2. Human annotators generate factual VQA prompts.
