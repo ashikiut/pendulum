@@ -32,7 +32,9 @@ Each image–question pair yields **three model responses**, enabling controlled
 
 ## Image Domains
 
-![Domain Distribution](images/image-distribution.png)
+<p align="center" width="100%">
+    <img src="https://github.com/ashikiut/pendulum/blob/main/images/image-distribution.png" width=70% height=70%>
+</p>
 
 | Domain                | Description |
 |----------------------|-------------|
@@ -46,7 +48,9 @@ Each image–question pair yields **three model responses**, enabling controlled
 ---
 
 ## Experiment Pipeline
-<img src="https://github.com/ashikiut/pendulum/blob/main/images/pipeline.png" width=60% height=60%>
+<p align="center" width="100%">
+    <img src="https://github.com/ashikiut/pendulum/blob/main/images/pipeline.png" width=70% height=70%>
+</p>
 
 1. Images are curated and grouped by domain based on visual complexity.
 2. Human annotators generate factual VQA prompts.
