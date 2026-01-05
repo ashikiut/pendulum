@@ -27,6 +27,7 @@ Sycophancy—the tendency of models to align with user assertions at the expense
   - **Negative Influence:** Misleading or adversarial hint
 
 Each image–question pair yields **three model responses**, enabling controlled analysis of response dynamics.
+You can download our [Pendulum Dataset](https://drive.google.com/drive/folders/1RiyKjc7EGWXBjNpZe95jIh8hAgRKs8GM), [Input Question Sets](https://github.com/ashikiut/pendulum/tree/main/VQA)
 
 ---
 
