@@ -1,6 +1,10 @@
 
 # PENDULUM: A Benchmark for Assessing Sycophancy in Multimodal Large Language Models
 
+This repository is for  Assessing Sycophancy in Multimodal Large Language Models by benchmarking using our novel Pendulum dataset introduced in the following paper
+
+A. B. M. Ashikur Rahman, [Saeed Anwar](https://saeed-anwar.github.io/), Muhammad Usman, Irfan Ahmad, Ajmal Mian, ["PENDULUM: A Benchmark for Assessing Sycophancy in Multimodal Large Language Models"](https://arxiv.org/abs/2512.19350).
+
 <p align="center" width="100%">
     <img src="https://github.com/ashikiut/pendulum/blob/main/images/sycophancy_example.png" width=70% height=70%>
 </p>
