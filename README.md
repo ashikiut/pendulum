@@ -103,3 +103,18 @@ This mix enables analysis across **model scale, architecture, and openness**.
 
 ---
 
+## Citation
+
+If you use this work or the dataset in your research, please cite it as follows:
+
+```bibtex
+@article{rahman2025pendulum,
+      title={PENDULUM: A Benchmark for Assessing Sycophancy in Multimodal Large Language Models}, 
+      author={A. B. M. Ashikur Rahman and Saeed Anwar and Muhammad Usman and Irfan Ahmad and Ajmal Mian},
+      year={2025},
+      eprint={2512.19350},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2512.19350}, 
+}
+
